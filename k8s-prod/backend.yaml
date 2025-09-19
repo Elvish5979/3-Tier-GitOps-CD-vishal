@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: elvish14/backend:5afc1f5a2993518a7f1329eb6d4da6e35032c22c
+          image: elvish14/backend:33243b71eee11e439e0f049e057a47c9255b33ff
           ports:
             - containerPort: 5000
           env:
